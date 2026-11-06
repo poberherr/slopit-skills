@@ -1,0 +1,11 @@
+{
+  "name": "slopit",
+  "version": "0.4.1",
+  "description": "Plan from the data flow, review PRs from their change set and explain how services connect (hosted).",
+  "author": {
+    "name": "Patrick Oberherr",
+    "url": "https://github.com/poberherr"
+  },
+  "homepage": "https://slopit.bike-shed.io",
+  "license": "MIT"
+}

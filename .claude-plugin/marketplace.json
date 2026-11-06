@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "slopit-skills",
+  "owner": {
+    "name": "Patrick Oberherr",
+    "url": "https://github.com/poberherr"
+  },
+  "plugins": [
+    {
+      "name": "slopit",
+      "source": "./",
+      "description": "Plan from the data flow, review PRs from their change set and explain how services connect (hosted).",
+      "category": "development"
+    }
+  ]
+}
